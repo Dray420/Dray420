@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @Dray420
-- 👀 I’m interested in programming and linux
-- 📫 I'm availabe on mastodon with the username: @Dray_yt@mastodon.social
+# Hi i'm Dray420
+- ⚡ I’m interested in programming and linux
+- 📫 How to find me: 
+  - 👨‍💻: [Mastodon](https://mastodon.social/web/@Dray_yt)
+  - 📹: [Youtube](https://www.youtube.com/channel/UCju1UcRvZwGVWFSSJdQJELw)
+# Stats 
+- [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Dray420&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Dray420/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dray420)](https://github.com/Dray420/github-readme-stats)
