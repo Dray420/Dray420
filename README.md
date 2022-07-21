@@ -1,4 +1,4 @@
-# Hi i'm Dray420
+# Hi i'm Proxin
 - ⚡ I’m interested in programming and linux
 - 📫 How to find me: 
   - 👨‍💻: [Mastodon](https://mastodon.social/web/@Dray_yt)
